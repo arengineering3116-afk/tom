@@ -1,0 +1,7 @@
+{
+  "name": "Aspen Dental Fort Myers",
+  "description": "A modern, responsive dental practice website for Aspen Dental in Fort Myers, FL, featuring a Gemini-powered virtual assistant for patient inquiries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
